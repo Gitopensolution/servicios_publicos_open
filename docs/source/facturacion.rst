@@ -3,7 +3,7 @@ Facturacion Electrónica
 
 .. _installation:
 
-Installation
+Configuracion
 ------------
 
 To use Lumache, first install it using pip:
@@ -12,7 +12,7 @@ To use Lumache, first install it using pip:
 
    (.venv) $ pip install lumache
 
-Creating recipes
+Timbrado Factura
 ----------------
 
 To retrieve a list of random ingredients,
