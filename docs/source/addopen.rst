@@ -1,7 +1,7 @@
-API
+ADDOpen
 ===
 
 .. autosummary::
    :toctree: generated
 
-   lumache
+   opensolution
