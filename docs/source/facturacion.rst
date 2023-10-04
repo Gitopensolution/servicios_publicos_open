@@ -6,11 +6,10 @@ Facturacion Electrónica
 Configuracion
 ------------
 
-To use Lumache, first install it using pip:
+**Series**
 
-.. code-block:: console
-
-   (.venv) $ pip install lumache
+Dentro de la guia de llenado del SAT, se indica un campo que pude ser llenado con una secuencia
+.. image :: img/serie-diario.png
 
 Timbrado Factura
 ----------------
