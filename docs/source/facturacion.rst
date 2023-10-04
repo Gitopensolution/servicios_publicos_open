@@ -8,9 +8,18 @@ Configuracion
 
 **Series**
 
-Dentro de la guia de llenado del SAT, se indica un campo que pude ser llenado con una secuencia
+Es el número de serie que utiliza el contribuyente para control
+interno de su información. Este campo acepta de 1 hasta 25
+caracteres alfanuméricos.
 
 .. image:: images/serie-diario.png
+
+.. note::
+
+   Normalmente se utilizan de acuerdo a la usanza palabras de 3 letras para 
+   diferenciar las sucursales de la matriz, al dia de hoy, formalmente se usa
+   LugardeExpedicion, donde se debe registrar el código postal del lugar de expedición del
+   comprobante (domicilio de la matriz o de la sucursal)
 
 Timbrado Factura
 ----------------

@@ -1,5 +1,5 @@
 Bienvenidos a la documentación de los Servicios OpenSolution!
-===================================
+=============================================================
 
 **OpenSolution** empresa lider en ofrecer soluciones de TI para todo tipo de empresas.
 La documentación es una herramienta invaluable que proporciona a los usuarios información detallada y clara sobre cómo utilizar nuestros servicios de TI.
@@ -16,7 +16,7 @@ Al brindar una explicación concisa y elocuente de la finalidad de nuestra docum
    soporte@opensolution.com.mx
 
 Contenido
---------
+---------
 
 .. toctree::
 
