@@ -1,14 +1,15 @@
 Facturacion Electrónica
-=====
+=======================
 
 .. _installation:
 
 Configuracion
-------------
+-------------
 
 **Series**
 
 Dentro de la guia de llenado del SAT, se indica un campo que pude ser llenado con una secuencia
+
 .. image:: images/serie-diario.png
 
 Timbrado Factura
